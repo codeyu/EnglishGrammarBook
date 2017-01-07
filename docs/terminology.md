@@ -11,7 +11,7 @@
 | 介系词   | 介词 | Preposition|
 | 片语    | 短语 | Phrases |
 | 名词片语 | 名词短语 | Noun Phrases |
-| 动词片语  | 动词短语   | Verb Phrases |        |
+| 动词片语  | 动词短语   | Verb Phrases |
 | 介系词片语    | 介词短语 | Prepositional Phrases|
 | 主词    | 主语 |Subject|
 | 受词    | 宾语 |Object|
