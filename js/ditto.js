@@ -257,7 +257,7 @@ function normalize_paths() {
     var src = $(this).attr("src");
     if($(this).attr("src").indexOf("../") > -1){
       src = $(this).attr("src").replace("../", "");
-      $(this).attr("src", location.host + "/" + src);
+      $(this).attr("src", "http://" + location.host + "/" + src);
     }
     else{
       src = $(this).attr("src").replace("./", "");
