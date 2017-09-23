@@ -11,7 +11,7 @@
 1. [第一章 基本句型](#docs/SimpleSentences)
 1. [第二章 名词片语](#docs/NounPhrases)
 1. [第三章 代名词](#docs/Pronouns)
-1. [第四章 形容詞](#docs/Adjective)
+1. [第四章 形容词](#docs/Adjective)
 1. [第五章 副词](#docs/Adverb)
 1. [第六章 比较句法](#docs/ComparativePattern)
 1. [第七章 介系词](#docs/Prepositions)
