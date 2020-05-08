@@ -323,7 +323,7 @@ S V O
 
 These restaurateurs do more business <u>with tourists</u> than <u>with local farmers</u>.
 
-只要留下介系词 with，读者就知道 local farmers 是受词、也知道它的比较对像是主要子句中同样位置的受词 tourists。但是，如果把介系词 with 也省略掉，又会变成先前那个不佳的句子，因为读者无从判断 local farmers 是主词还是动词，也就无从判断它是和 these restaurateurs 相比还是和 tourists 相比，句意就会变成不清楚。
+只要留下介系词 with，读者就知道 local farmers 是受词、也知道它的比较对像是主要子句中同样位置的受词 tourists。但是，如果把介系词 with 也省略掉，又会变成先前那个不佳的句子，因为读者无从判断 local farmers 是主词还是受词，也就无从判断它是和 these restaurateurs 相比还是和 tourists 相比，句意就会变成不清楚。
 
 经由以上的分析，我们可以下一个小结论：比较句法的平行对称要求类似对等子句，than 或 as 引导的从属子句中也可以像对等子句一样省略掉与主要子句重复的部分；但是省略要以「够清楚」为原则，要注意不得造成「模棱两可」的结果。
 
