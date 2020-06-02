@@ -107,32 +107,32 @@ S V C
 
 请看看下面这些例子：
 
-That purse <u>looks</u> pretty. (那个包包很好看。)
-The question <u>seems</u> easy. (这个问题好像很容易。)
-Your friend <u>appears</u> quite a gentleman. (你的朋友似乎是个十足的绅士。)
-Your suggestion <u>sounds</u> exciting. (你的提议听起来很刺激。)
-The woman <u>feels</u> dizzy. (这个女人感觉头晕。)
-The wine <u>tastes</u> sweet. (酒有甜味。)
-The man <u>remains</u> single. (此人继续保持单身。)
-The player <u>turned</u> professional. (这位球员转入职业。)
-The drug <u>proved</u> effective. (药证实有效。)
-The actor <u>became</u> a big star. (这位演员成了大明星。)
-A school teacher <u>makes</u> a good wife. (娶小学老师当老婆很不错。)
+That purse <u>looks</u> pretty. (那个包包很好看。)  
+The question <u>seems</u> easy. (这个问题好像很容易。)    
+Your friend <u>appears</u> quite a gentleman. (你的朋友似乎是个十足的绅士。)    
+Your suggestion <u>sounds</u> exciting. (你的提议听起来很刺激。)    
+The woman <u>feels</u> dizzy. (这个女人感觉头晕。)    
+The wine <u>tastes</u> sweet. (酒有甜味。)  
+The man <u>remains</u> single. (此人继续保持单身。)  
+The player <u>turned</u> professional. (这位球员转入职业。)  
+The drug <u>proved</u> effective. (药证实有效。)  
+The actor <u>became</u> a big star. (这位演员成了大明星。)  
+A school teacher <u>makes</u> a good wife. (娶小学老师当老婆很不错。)  
 
 这些句子都是 S + V + C 的句型，画底线部分都是所谓的连缀动词，真正在做叙述工作的都是动词后面的补语部分。这种句型有一个很简便的检验方法：把动词换成be 动词（纯粹的「是」），意思仍然差不多：
 
-That purse <u>is</u> pretty.
-The question <u>is</u> easy.
-Your friend <u>is</u> quite a gentleman.
-Your suggestion <u>is</u> exciting.
-The woman <u>is</u> dizzy.
-The wine <u>is</u> sweet.
-The schoolmates <u>were</u> friends for life.
-The man <u>is</u> single.
-The player <u>was</u> professional.
-The drug <u>was</u> effective.
-The actor <u>was</u> a big star.
-A school teacher <u>is</u> a good wife.
+That purse <u>is</u> pretty.  
+The question <u>is</u> easy.  
+Your friend <u>is</u> quite a gentleman.  
+Your suggestion <u>is</u> exciting.  
+The woman <u>is</u> dizzy.  
+The wine <u>is</u> sweet.  
+The schoolmates <u>were</u> friends for life.  
+The man <u>is</u> single.  
+The player <u>was</u> professional.  
+The drug <u>was</u> effective.  
+The actor <u>was</u> a big star.  
+A school teacher <u>is</u> a good wife.  
 
 因为，look「看起来是」、seem「似乎是」、appear「显得是」、become「成为」、prove「证实为」等等，所有的连缀动词其实都是各种各样的「是」。这种动词都和 be 词一样，缺乏叙述能力，只能扮演「连缀」的角色，把主词和补语串连起来。真正的叙述工作要靠后面的补语来做。
 
@@ -148,17 +148,17 @@ S V O C
 
 下面这些例子，画底线部分分别是受词（O）与补语（C）。请读者试试看，拿受词出来当主词、中间加个be 动词，后面的补语就变成主词补语。结果将是上一节列出的那些 S + V + C 的句子。
 
-I find <u>the purse</u> <u>pretty</u>. （我觉得这个包包很漂亮。）
-The tip made <u>the question</u> <u>easy</u>. （因为有提示，所以问题变得很容易。）
-I consider <u>the man</u> <u>quite a gentleman</u>. （我认为此是个十足的绅士。）
-The boss found <u>your suggestion</u> <u>exciting</u>. （老板觉得你的提议很刺激。）
-The bus ride made <u>the woman</u> <u>dizzy</u>. （搭巴士让这个女人感觉头晕。）
-I find <u>the wine</u> <u>sweet</u>. （我觉得酒有甜味。 ）
-The man’s poverty kept <u>him</u> <u>single</u>. （此人的贫穷使他继续保持单身。）
-The victory made <u>the player</u> <u>professional</u>. (这场胜历史这位球员转入职业。)
-The doctor proclaimed <u>the drug</u> <u>effective</u>. （医生宣称这种药有效。）
-The hit movie made <u>the actor</u> <u>a big star</u>. （这部轰动的电影使这位演员成了大明星。 ）
-Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人认为小学老师是理想的太太。 ）
+I find <u>the purse</u> <u>pretty</u>. （我觉得这个包包很漂亮。）  
+The tip made <u>the question</u> <u>easy</u>. （因为有提示，所以问题变得很容易。）  
+I consider <u>the man</u> <u>quite a gentleman</u>. （我认为此是个十足的绅士。）  
+The boss found <u>your suggestion</u> <u>exciting</u>. （老板觉得你的提议很刺激。）  
+The bus ride made <u>the woman</u> <u>dizzy</u>. （搭巴士让这个女人感觉头晕。）  
+I find <u>the wine</u> <u>sweet</u>. （我觉得酒有甜味。 ）   
+The man’s poverty kept <u>him</u> <u>single</u>. （此人的贫穷使他继续保持单身。）  
+The victory made <u>the player</u> <u>professional</u>. (这场胜历史这位球员转入职业。)  
+The doctor proclaimed <u>the drug</u> <u>effective</u>. （医生宣称这种药有效。）  
+The hit movie made <u>the actor</u> <u>a big star</u>. （这部轰动的电影使这位演员成了大明星。 ）  
+Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人认为小学老师是理想的太太。 ）  
 
 ## 补语的词类
 
