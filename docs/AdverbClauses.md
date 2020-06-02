@@ -167,7 +167,7 @@ You <u>needn’t fear</u> my brother, <u>for he’s a good man</u>.
 
 ### For fear that
 
-The camper <u>put</u> water on the ashes <u>for feat that he might start a forest fire</u>.
+The camper <u>put</u> water on the ashes <u>for fear that he might start a forest fire</u>.
 (露营的人在灰烬上浇水，唯恐会酿成森林大火。)
 
 如果在限定子句外面加一个单独、无意义的连接词 that，构成的是个名词子句。但是如果外加的是像 for fear that 这种有意义、表达某种逻辑关系的连接词，那么构成的就是副词子句。以这个例子而言，for fear that 引导的副词子句修饰动词 put 的目的。
