@@ -409,12 +409,13 @@ As well as 和 no less than 可以视为副词子句外加的连接词。但是�
 
 ### as well as
 
-<u>France other nations in the EU has adopted</u> the Euro.
+<u>France as well as other nations in the EU has adopted</u> the Euro.
 (法国和欧盟其他国家一样都已经采用了欧元。)
 
 可以先还原为下面两个单句来理解：
 
 France has adopted the Euro.
+
 Other nations in the EU have adopted the Euro.
 
 这两个句子用比较级的连接词 as well as 连接起来，可以造出比较级的复句如下：
@@ -446,6 +447,7 @@ No less than 和 as well as 一样是比较级的连接词，主词动词一致�
 可以拆开成为下面两个句子来理解：
 
 The numerous stories behind it have fascinated viewers for ages.
+
 The painting itself has fascinated viewers for ages.
 
 这两个句子可以用 no less than 这组比较级的连接词连接起来，然后省略掉从属子句中（从属连接词 no less than 后面）重复的部分，成为复句如下：
