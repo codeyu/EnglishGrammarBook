@@ -245,7 +245,7 @@ all healthy young girls 所有健康的年轻女孩
 
 ## 名词片语的省略
 
-在词片语「限定词+ 形容词 + 名词」这三个部分当中，每个部分都有可能从缺。例如在 a good teacher 这个名词片语中，即使拿掉形容词 good，只剩下 a teacher，这个名词片语还是正确的。甚至，在 the smartest kid 这个名词片语中，如果拿掉最重要的名词 kid，只剩下 the smartest，也一样是正确的，例如：
+在名词片语「限定词+ 形容词 + 名词」这三个部分当中，每个部分都有可能从缺。例如在 a good teacher 这个名词片语中，即使拿掉形容词 good，只剩下 a teacher，这个名词片语还是正确的。甚至，在 the smartest kid 这个名词片语中，如果拿掉最重要的名词 kid，只剩下 the smartest，也一样是正确的，例如：
 
 Of all the kids in my class, Jack is <u>the smartest</u>.
 (我班上所有的学生就属 Jack 最聪明。)
@@ -342,7 +342,7 @@ I want <u>these</u>.
 
 请注意：前位限定词、中位限定词与后位限定词可以共同出现在一个名词片语中，只要顺序别搞错。例如：all(前) my(中) many(后) friends。但是，如果同样属于中位限定词，那么彼此之间具有排他性，也就是只能采用一个。换言之，如果把两个中位限定词写在一起就是错误。例如下面这几个名词片语都犯了这个错误：
 
-the same boy (误)
+these some boy (误)
 any my car (误)
 neither John’s sister (误)
 every some mistake (误)
