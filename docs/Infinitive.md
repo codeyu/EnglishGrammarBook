@@ -6,11 +6,11 @@
 
 不定词和语气助动词具有诸多共同点：后面都要接原形动词、都具有不确定语气，而且还可以互相改写──所有的主要语气助动词都可以改写成不定词，如下：
 
-must → have to
-should → ought to
-will/would → be going to/be willing to
-can/could → be able to
-may/might → be likely to/be allowed to
+must → have to <br>
+should → ought to <br>
+will/would → be going to/be willing to <br>
+can/could → be able to <br>
+may/might → be likely to/be allowed to <br>
 
 基于以上观察，笔者主张：不定词就是语气助动词减化的结果。亦即，将语气助动词改写为 to，就可以把限定动词片语（语气助动词 + 原形动词）改为非限定（to + V），也就是把动词片语转变为其他词类使用。
 
