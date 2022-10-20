@@ -111,7 +111,7 @@ Jack is a man <u>that</u> you should talk to.
 
 还有一种做法：如果选择不拆开、而是把整个介系词片语一起移到句首，就会成为下面这个复句：
 
-Jack in a man [<u>to whom</u> you should talk].
+Jack is a man [<u>to whom</u> you should talk].
 介系词片语
 
 只有在这种情况，whom 仍然置于明显的受词位置，才有必要采用受格。而且，这种情况既不能省略 whom、也不能改成 that，所以没有什么别的变化。
