@@ -14,12 +14,12 @@ Mr. Wang, my boss, is <u>a busy man</u>.
 
 如第二章所述，名词片语中有三个位置：限定词 + 形容词+ 名词。所以，在名词片语中间、也就是夹在限定词（包括零冠词）和名词之间的位置，正是安插形容词的正确位置。请观察下列的名词片语以及其中的形容词：
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 | |
 | --- | --- | --- | --- |
 | a | small | garden | 一座小花园 |
- popular | songs | 热门歌曲 |
+| | popular | songs | 热门歌曲 |
 | that | foolish | plan | 那项愚蠢的计画 |
- extreme | danger | 极度危险 |
+| | extreme | danger | 极度危险 |
 | my | dearest | friend | 我最亲蜜的朋友 |
 | many | happy | days | 许多快乐的日子 |
 
@@ -27,13 +27,13 @@ Mr. Wang, my boss, is <u>a busy man</u>.
 
 如果名词片语中的形容词位置，放入的却是另一个名词，那么中间这个名词就是当做形容词使用，应该视为形容词看待。整个名词片语可以视为一个复合名词（compound）。例如︰
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 | |
 | --- | --- | --- | --- |
 | that | flower | shop | 那家花店 |
 | your | trouser | pockets | 你的裤子口袋 |
- worker | solidarity | 工人大团结 |
+| | worker | solidarity | 工人大团结 |
 | a | shoe | factory | 一家制鞋工厂 |
- company | cars | 公司的汽车 |
+| | company | cars | 公司的汽车 |
 
 以第一个例子来说，that flower shop 这个名词片语中间的形容词位置，放的却是另一个名词 flower。这时候应该把 flower 当做形容词看待。试想：花店卖的花当然不只一朵，那么为什么在名词片语 that flower shop 中间用的却是单数的 flower 而不用复数的 flowers？这是因为名词片语中间这个位置是形容词位置，把名词 flower 放在这个位置，就要视同形容词看待。而英文的形容词是没有复数的，只有名词才可能会有复数。所以，flower 当形容词使用时自然只能采用单数。名词片语 that flower shop「那家花店」，意思是「那家『卖花的』店」。 flower 用在这个位置，意思是「卖花的」，当作形容词使用，所以没有复数。另外那几个例子中的 trouser, worker, shoe 等等都采用单数形，也是同样的原因。请注意：包括像 trousers, shoes 这些通常都要用复数形的名词，放在名词片语中转作形容词使用时，也一样要改采单数形。
 
@@ -41,10 +41,10 @@ Mr. Wang, my boss, is <u>a busy man</u>.
 
 前面提过，形容词片语可以使用在补语位置，但是不能用在名词片语中，因为名词片语中的位置比较狭窄，放不进片语、只能放进单字。如果形容词片语要放进名词片语中的位置使用，必须先把形容词片语改造为单字，也就是改写成复合形容词。先看几个例子：
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 | |
 | --- | --- | --- | --- |
 | that | hard-to-solve | problem | 那道难解的题目 |
- state-of-the-art | technology | 尖端科技 |
+| | state-of-the-art | technology | 尖端科技 |
 | a | five-year-old | boy | 一个五岁大的男孩 |
 | that | 10-story-high | building | 那栋十层楼高的建筑 |
 
@@ -54,10 +54,10 @@ Mr. Wang, my boss, is <u>a busy man</u>.
 
 如上所述，英文的形容词通常只有单数没有复数。但是在一些特殊的情况下，名词片语中的形容词看起来就是复数形。例如：
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 | |
 | --- | --- | --- | --- |
 | that | savings | bank | 哪家储蓄银行 |
- damages | negotiations | 赔偿谈判 |
+| | damages | negotiations | 赔偿谈判 |
 | several | clothes | hangers | 几支衣架 |
 | your | sports | car | 你的跑车 |
 
