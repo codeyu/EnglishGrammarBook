@@ -569,7 +569,7 @@ V 副词子句
 The girl <u>is</u> determined to marry her boyfriend [despite her parents’ strong objection].
 V 介系词片语
 
-在介系词后面只有一个狭小的名词片的空间，所以原来的副词子句要进行大幅度的减化。因为副词子句的主词 her parents 和主要子句主词 the girl 不同、必须保留，可以用所有格 her parents' 的形式安插在名词片语的限定词位置，再把动词片语 objeect strongly 改为名词类 strong objection。再看一个例子：
+在介系词后面只有一个狭小的名词片的空间，所以原来的副词子句要进行大幅度的减化。因为副词子句的主词 her parents 和主要子句主词 the girl 不同、必须保留，可以用所有格 her parents' 的形式安插在名词片语的限定词位置，再把动词片语 object strongly 改为名词类 strong objection。再看一个例子：
 
 [Although he was not told to enter], the salesperson <u>came in</u>.
 副词子句 V
