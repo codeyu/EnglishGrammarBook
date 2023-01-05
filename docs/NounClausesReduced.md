@@ -268,13 +268,13 @@ S V O C
 
 再看一个例子：
 
-<u>I</u> <u>consider</u> <u>it</u> <u>my duty</u> [that I should support my daugher through college].
+<u>I</u> <u>consider</u> <u>it</u> <u>my duty</u> [that I should support my daughter through college].
 S V O C 名词子句
 (我认为我有责任供我女儿读完大学。)
 
 主要子句的受词 it 是个虚字，它的内容就是后面那个名词子句（中括弧内的部分）。这个名词子句，主词 I 和主要子句重复，减化时可以省略。助动词 should 减化为表示不定词的 to、再把无意义的连接词 that 省略掉，结果就是：
 
-<u>I</u> <u>consider</u> <u>it</u> <u>my duty</u> [to support my daugher through college].
+<u>I</u> <u>consider</u> <u>it</u> <u>my duty</u> [to support my daughter through college].
 S V O C 减化名词子句
 
 下面这个句型稍有不同：
