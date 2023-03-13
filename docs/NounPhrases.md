@@ -223,7 +223,7 @@ The soldiers do <u>100 push-ups</u> every day.
 
 ## 副词
 
-名词片语中也可以有复词。例如 their very pretty garden 这个名词片语, 除了限定词 (their) + 形容词 (pretty) + 名词(garden) 这三个部分之外,可以看到在形容词前面附加了 very 这个字。 Very 属于**加强语气的副词 (intensifier)**​​, 用在这里是当作修饰形容词 pretty 的修饰语使用, 是个可有可无的元素。再看个类似的例子:
+名词片语中也可以有副词。例如 their very pretty garden 这个名词片语, 除了限定词 (their) + 形容词 (pretty) + 名词(garden) 这三个部分之外,可以看到在形容词前面附加了 very 这个字。 Very 属于**加强语气的副词 (intensifier)**​​, 用在这里是当作修饰形容词 pretty 的修饰语使用, 是个可有可无的元素。再看个类似的例子:
 
 that rather old jacket 那件蛮老旧的外套
 
