@@ -250,7 +250,7 @@ all healthy young girls 所有健康的年轻女孩
 Of all the kids in my class, Jack is <u>the smartest</u>.
 (我班上所有的学生就属 Jack 最聪明。)
 
-读者可以从上下文中清楚了解 the smartest 就是 the smartest kid 的省略。更有什者，在 these juicy Japanese apples 名词片语中，还可以把两个形容词（juicy, Japanese）和名词一起都拿掉，只剩下限定词 these，仍然是正确的名词片语。比如说，你指着一堆苹果对老板说：
+读者可以从上下文中清楚了解 the smartest 就是 the smartest kid 的省略。更有甚者，在 these juicy Japanese apples 名词片语中，还可以把两个形容词（juicy, Japanese）和名词一起都拿掉，只剩下限定词 these，仍然是正确的名词片语。比如说，你指着一堆苹果对老板说：
 
 I want <u>these</u>.
 (我要这几个。)
