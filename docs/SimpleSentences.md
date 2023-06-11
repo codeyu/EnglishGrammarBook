@@ -204,7 +204,7 @@ S V O C
 
 <u>The key</u> <u>is</u> <u>there</u>.
 S V C
-(钥匙在哪里。)
+(钥匙在那里。)
 
 <u>I</u> <u>left</u> <u>the key</u> <u>there</u>.
 S V O C
