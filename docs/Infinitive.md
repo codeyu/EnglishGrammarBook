@@ -306,11 +306,11 @@ S V O C
 
 不过，这并不表示在使役动词后面一定要用原形动词当受词补语。还可以有其他的选择，例如：
 
-<u>He</u> <u>had</u> <u>his lawn</u> <u>mawned</u> by his neighbor’s kid.
+<u>He</u> <u>had</u> <u>his lawn</u> <u>mowed</u> by his neighbor’s kid.
 S V O C
 (他叫邻居的小孩替他剪草地。)
 
-这个句子的动词 had 也是使役动词。受词是 his lawn（草地），受词补语应该用过去分词 mawned（被剪）来做被动的形容词。所以，在使役动词后面，如果有「被动」语态，仍然应该用过去分词当受词补语。
+这个句子的动词 had 也是使役动词。受词是 his lawn（草地），受词补语应该用过去分词 mowed（被剪）来做被动的形容词。所以，在使役动词后面，如果有「被动」语态，仍然应该用过去分词当受词补语。
 
 <u>He</u> <u>had</u> <u>the garden party</u> <u>going</u>.
 S V O C
