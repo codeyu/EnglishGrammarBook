@@ -248,7 +248,7 @@ V 减化副词子句
 [After having been robbed five times], the store finally <u>installed</u> a security system.
 减化副词子句 V
 
-当然，减化子句部分如果省略掉 after 成为 having been robbed five times，或什至再省略掉 having been 成为 robbed five times，意思也都还够清楚。
+当然，减化子句部分如果省略掉 after 成为 having been robbed five times，或甚至再省略掉 having been 成为 robbed five times，意思也都还够清楚。
 
 ### 分词构句的位置
 
@@ -256,7 +256,7 @@ V 减化副词子句
 
 #### 句首
 
-[Entering the classroom], <u>the teacher</u> <u>greated</u> <u>the students</u>.
+[Entering the classroom], <u>the teacher</u> <u>greeted</u> <u>the students</u>.
 简化副词子句 S V O
 (进入教室时, 老师和学生们打招呼。)
 
@@ -332,7 +332,7 @@ S dangling modifier
 <u>This new medicine</u> cannot really cure a patient [unless <u>administered</u> in the earliest stages of lung cancer].
 S 减化副词子句
 
-这样修改之下，副词子句变成 unless it is administered in the earliest stages of lung cancer「除非在肺癌的最初期就施用」，主词it就是主要子句的主词 this new madicine，如此才能够减化。
+这样修改之下，副词子句变成 unless it is administered in the earliest stages of lung cancer「除非在肺癌的最初期就施用」，主词 it 就是主要子句的主词 this new medicine，如此才能够减化。
 
 ## 简化为 To V
 
