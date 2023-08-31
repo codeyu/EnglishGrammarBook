@@ -562,7 +562,7 @@ S V O (这个人最早爬到山顶。)
 
 两个句子在 person 上重复而建立关系，可以制造关系子句来连接。做法是把句 2 中的重复点 the person 改写为关系代名词 who、成为关系子句 who reaches the mountaintop first，然后置于句 1 中的​​先行词 any person 之后，成为复句如下：
 
-<u>ny person</u> [who reaches the mountaintop first] <u>will win</u> <u>1,000 dollars</u>.
+<u>Any person</u> [who reaches the mountaintop first] <u>will win</u> <u>1,000 dollars</u>.
 S 关系子句 V O
 
 因为先行词 any person 没有内容，可以选择省略，只要把关系代名词 who 改写为复合关系代名词 whoever，关系子句 whoever reaches the mountaintop first 升格为名词子句、直接当作主要子句的主词使用，如下：
