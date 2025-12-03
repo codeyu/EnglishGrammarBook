@@ -373,7 +373,7 @@ my father’s company 我父亲的公司
 
 | 限定词 | 形容词 | 名词 |
 | --- | --- | --- | --- |
-| an | unbelievable | 200 million dollars | 难以置信的二千亿元 |
+| an | unbelievable | 200 billion dollars | 难以置信的二千亿元 |
 
 乍看之下有点奇怪：名词是复数的 dollars，前面为什么还可以加单数的冠词 an ？
 
