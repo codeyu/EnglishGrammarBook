@@ -298,7 +298,7 @@ His objection is quite <u>beside the point</u>.
 It's sometimes difficult to live <u>within one's income</u>.
 (要量入为出，​​有时候很困难。)
 
-介系词片语 within one's means 字面上是「在个人收入范围之内」，这是用空间介系词来比喻「不透支」。
+介系词片语 within one's income 字面上是「在个人收入范围之内」，这是用空间介系词来比喻「不透支」。
 
 ## 时间介系词
 
